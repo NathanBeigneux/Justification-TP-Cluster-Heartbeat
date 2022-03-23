@@ -1,4 +1,4 @@
-# Justifications-TP-Cluster-Heartbeat Compétence : Gérer le patrimoine Informatique
+# Justifications-TP-Cluster-Heartbeat 
 
 Compétence : Gérer le patrimoine Informatique
 
